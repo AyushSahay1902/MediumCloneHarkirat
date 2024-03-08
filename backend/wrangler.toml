@@ -1,0 +1,5 @@
+name = "-"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzE0ZDZjYTUtMWQ2Zi00ZDEyLWJjYmUtZTlmNmQwMWJlMjk4IiwidGVuYW50X2lkIjoiODc3ZjQ1NGZlYzhjZDdlMTg1MDVlYWQ2ZDMxNzQ2Y2ZmZjgzOTQ4NTUwYTkxZmJjOGI1OWMwNTE0ZjhiZjQ0NSIsImludGVybmFsX3NlY3JldCI6IjkzZjM2NjhhLTkwNzktNGIwZi1iZjU1LTk3MmFiNDMzYjcxNiJ9.HIV_ZyrbkyU2fI1pDF5wKHcLoknCS3BiA87gmlKS8Hs"
