@@ -1,5 +1,5 @@
 Heavy Coding Stack
-1.React in the frontend
+1.React in the frontend \n
 2.Cloudflare workers in the backend
 3.zod as the validation library, type inference for the frontend types
 4.Typescript as the language
