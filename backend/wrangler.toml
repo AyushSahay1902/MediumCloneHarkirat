@@ -1,5 +1,7 @@
-name = "-"
+name = "medium_clone"
 compatibility_date = "2023-12-01"
 
 [vars]
 DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzE0ZDZjYTUtMWQ2Zi00ZDEyLWJjYmUtZTlmNmQwMWJlMjk4IiwidGVuYW50X2lkIjoiODc3ZjQ1NGZlYzhjZDdlMTg1MDVlYWQ2ZDMxNzQ2Y2ZmZjgzOTQ4NTUwYTkxZmJjOGI1OWMwNTE0ZjhiZjQ0NSIsImludGVybmFsX3NlY3JldCI6IjkzZjM2NjhhLTkwNzktNGIwZi1iZjU1LTk3MmFiNDMzYjcxNiJ9.HIV_ZyrbkyU2fI1pDF5wKHcLoknCS3BiA87gmlKS8Hs"
+
+JWT_SECRET ="7f8d9e3b6a5c4a3b9d8e2f6c5b4a3b2d1e0f9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b"
